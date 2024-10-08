@@ -1,0 +1,31 @@
+track,artist,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+The Show,Kerris Dorsey,0.594,0.0658,9,-16.422,0,0.0627,0.951,0.0,0.0823,0.578,149.314,193787
+A Little Bit of Everything,Dawes,0.572,0.162,5,-20.962,1,0.0409,0.434,0.0,0.208,0.262,73.099,342787
+The Lady In Red,Chris de Burgh,0.548,0.294,10,-17.112,1,0.0333,0.332,3.34e-06,0.0392,0.491,76.698,256173
+Baby Can I Hold You,Tracy Chapman,0.692,0.422,2,-10.533,1,0.0333,0.0811,0.0,0.0848,0.468,74.375,193120
+You're Somebody Else,flora cash,0.713,0.452,1,-9.638,1,0.0295,0.841,0.0038,0.105,0.235,102.963,218883
+I Will Follow You into the Dark,Death Cab for Cutie,0.581,0.163,5,-14.686,1,0.0447,0.923,0.0,0.118,0.475,77.748,189400
+Summertime Sadness,Lana Del Rey,0.565,0.654,1,-6.826,0,0.0335,0.0542,1.8e-06,0.122,0.235,111.968,265427
+River,Leon Bridges,0.635,0.184,8,-10.785,1,0.0456,0.665,0.0,0.146,0.177,128.424,240200
+"Please, Please, Please, Let Me Get What I Want - 2011 Remaster",The Smiths,0.241,0.468,2,-9.579,1,0.0272,0.534,0.0,0.161,0.451,91.581,112707
+In the Aeroplane Over the Sea,Neutral Milk Hotel,0.271,0.714,7,-5.124,1,0.0329,0.392,0.0,0.115,0.239,94.158,202347
+Nothing's Gonna Hurt You Baby,Cigarettes After Sex,0.495,0.328,4,-14.079,1,0.0274,0.262,0.149,0.107,0.0927,97.241,286293
+Hallelujah,Jeff Buckley,0.324,0.136,0,-10.33,1,0.0318,0.931,0.00117,0.176,0.0831,97.256,413827
+Sunsetz,Cigarettes After Sex,0.41,0.48,9,-9.417,0,0.0294,0.0561,0.814,0.0972,0.129,75.303,215150
+Vienna,Billy Joel,0.532,0.495,10,-6.662,1,0.0343,0.659,0.0,0.0754,0.308,124.936,214240
+You Are Your Mother's Child,Conor Oberst,0.611,0.174,9,-13.153,1,0.0452,0.875,0.0,0.102,0.463,115.558,228640
+Resurrection Fern,Iron & Wine,0.44,0.344,5,-10.014,1,0.0288,0.306,0.0,0.108,0.21,74.684,289827
+Nothing Compares 2 U,Sinéad O'Connor,0.512,0.574,5,-7.016,1,0.0273,0.0425,2.31e-05,0.105,0.161,119.917,280040
+I Don't Want to Die (In the Hospital),Conor Oberst,0.569,0.969,4,-4.773,1,0.0584,0.0789,0.0,0.072,0.804,106.5,212520
+King of Carrot Flowers Pt. 1,Neutral Milk Hotel,0.407,0.519,5,-6.47,1,0.0336,0.11,0.889,0.409,0.342,94.001,120427
+Communist Daughter,Neutral Milk Hotel,0.192,0.377,7,-9.157,1,0.0352,0.285,0.813,0.173,0.0976,84.768,117307
+Hoppípolla,Sigur Rós,0.314,0.684,11,-6.447,1,0.0327,0.0302,0.22,0.219,0.175,139.872,268707
+Every Breath You Take,The Police,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,253920
+Love Generation - Radio Edit,"Bob Sinclar, Gary Pine",0.723,0.856,1,-3.569,1,0.0673,0.146,0.000155,0.0798,0.553,128.047,204105
+"Relax, Take It Easy",MIKA,0.694,0.694,6,-8.21,0,0.0328,0.058,0.0129,0.129,0.608,121.876,270000
+Alors on danse - Radio Edit,Stromae,0.79,0.593,1,-9.204,0,0.0776,0.0983,0.00202,0.065,0.72,119.958,206067
+"Maniac - From ""Flashdance""",Michael Sembello,0.605,0.757,3,-5.897,0,0.0554,0.0396,2.6e-06,0.0447,0.828,157.714,246000
+"Flightless Bird, American Mouth",Iron & Wine,0.369,0.403,3,-7.996,1,0.0259,0.827,0.0541,0.106,0.177,154.899,241917
+Naked as We Came,Iron & Wine,0.386,0.205,4,-16.699,1,0.0366,0.653,0.0448,0.106,0.623,172.373,152613
+Time After Time,Iron & Wine,0.627,0.247,1,-13.303,1,0.0321,0.811,0.0587,0.112,0.639,125.305,170217
+The Trapeze Swinger,Iron & Wine,0.607,0.399,2,-12.163,1,0.036,0.892,0.000317,0.1,0.688,75.476,571080

@@ -1,0 +1,14 @@
+# Core Libraries
+pandas==1.5.3          # Data manipulation and analysis
+numpy==1.24.3           # Fundamental package for numerical computations
+scikit-learn==1.2.2    # Machine learning library
+matplotlib==3.7.1      # Plotting library for creating static, animated, and interactive 
+jupyter==1.0.0         # Jupyter Notebook for interactive coding
+spotipy==2.22.1        # Spotify Web API client library for Python
+
+
+
+visualizations
+seaborn==0.12.2        # Statistical data visualization based on Matplotlib
+
+joblib==1.2.0        # Optional: for saving/loading models
